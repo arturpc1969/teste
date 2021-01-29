@@ -1,4 +1,4 @@
-# Teste do Git
+# Novo arquivo para teste do Git
 # Data: 29/01/2021
 # Autor: Artur Coutinho
 *************************************************************
